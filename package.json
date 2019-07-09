@@ -1,0 +1,18 @@
+{
+  "name": "taxcalculator",
+  "version": "1.0.0",
+  "description": "Identity Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Scott Miles",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "1.19.0",
+    "request": "2.88.0"
+  },
+  "devDependencies": {
+  }
+}
